@@ -1,4 +1,4 @@
-# Teste técnico Minutrade apiTicketUser
+# apiTicketUser
 A estratégia utilizada para o desenvolvimento desta aplicação foi criar uma API utilizando Node.js e MongoDB, apesar de não serem tecnologias que possuo maior domínio, optei por esse caminho para superar o desafio em absorver o conhecimento das duas tecnologias dentro do prazo estipulado para o teste e também seguindo uma indicação do Lucas para esta opção de desenvolvimento.
 
 #Instruções para testar
