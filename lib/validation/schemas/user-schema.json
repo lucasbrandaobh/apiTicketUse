@@ -1,0 +1,22 @@
+{
+    "id": "user",
+    "required": ["name", "email", "cardId", "password"],
+    "properties":{
+      "name": {
+        "type": "string",
+        "minLength": "1"
+      },
+      "email": {
+        "type": "string",
+        "minLength": "1"
+      },
+      "cardId": {
+        "type": "string",
+        "minLenght": "1"
+      },
+      "password": {
+        "type": "string",
+        "minLenght": "1"
+      }
+    }
+  }

@@ -1,0 +1,6 @@
+{
+    "MONGO_URL": "mongodb://127.0.0.1/apiticketuser",
+    "MONGO_URL_TEST": "mongodb://127.0.0.1/apiticketuserTest",
+    "SERVER_URL": "http://localhost:3050",
+    "SERVER_PORT": "3050"
+  }
